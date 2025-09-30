@@ -113,13 +113,13 @@ Once files are indexed, switch to the **"Chat"** tab. You can ask questions and 
 
 | Library | Purpose |
 | :--- | :--- |
-| **Flask** | [cite\_start]Backend API framework [cite: 1] |
-| **Gradio** | [cite\_start]Web interface for the application [cite: 1] |
-| **LangChain** | [cite\_start]AI & Large Language Model (LLM) integration [cite: 1] |
-| **FAISS** | [cite\_start]Vector database for storing document embeddings [cite: 1] |
-| **PyMuPDF / pytesseract** | [cite\_start]Used for extracting text from PDFs and images [cite: 1] |
-| **Google Generative AI** | [cite\_start]The core AI model for generating answers [cite: 1] |
-| **Sentence Transformers** | [cite\_start]Used for generating embeddings, including a local CPU-friendly model [cite: 2] |
+| **Flask** | Backend API framework  |
+| **Gradio** | Web interface for the application  |
+| **LangChain** | AI & Large Language Model (LLM) integration  |
+| **FAISS** | Vector database for storing document embeddings  |
+| **PyMuPDF / pytesseract** | Used for extracting text from PDFs and images  |
+| **Google Generative AI** | The core AI model for generating answers  |
+| **Sentence Transformers** | Used for generating embeddings, including a local CPU-friendly model |
 
 -----
 
